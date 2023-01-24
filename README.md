@@ -18,17 +18,24 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## Project Screenshots:
 
-To learn more about Next.js, take a look at the following resources:
+### Home Page
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![image](https://user-images.githubusercontent.com/84434084/214212445-b123ec0b-eb28-4a1a-8513-00714995970d.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Properties for Sale
 
-## Deploy on Vercel
+![image](https://user-images.githubusercontent.com/84434084/214213917-7f0f68a1-7991-4816-9b7f-24eca70354a8.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Search Page
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![image](https://user-images.githubusercontent.com/84434084/214214094-6f9c7343-b32c-41a7-83e6-f997bbbfbd05.png)
+
+### Individual Property Details Page
+
+![image](https://user-images.githubusercontent.com/84434084/214214517-ff87fd91-abd3-41e3-aff4-541bdfca622f.png)
+
+
+
+
