@@ -18,7 +18,7 @@ const Navbar = () => (
                         <MenuItem icon={<FcHome/>}>Home</MenuItem>
                     </Link>
                     <Link href="/search" passHref> 
-                        <MenuItem icon={<BsSearch/>}>Serach</MenuItem>
+                        <MenuItem icon={<BsSearch/>}>Search</MenuItem>
                     </Link>
                     <Link href="/search?purpose=for-sale" passHref> 
                         <MenuItem icon={<FcAbout/>}>Buy Property</MenuItem>
